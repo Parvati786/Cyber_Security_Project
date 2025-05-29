@@ -1,4 +1,4 @@
-# Fsociety Hacking Tools Pack
+#  Hacking Tools Pack
 
 [![Python2.7](https://img.shields.io/badge/Python-2.7-green.svg?style=flat-square)](https://www.python.org/downloads/release/python-2714/) 
 ![OS](https://img.shields.io/badge/Tested%20On-Linux%20|%20OSX%20|%20Windows%20|%20Android-yellowgreen.svg?style=flat-square) 
@@ -7,7 +7,7 @@
 
 A Penetration Testing Framework, you will have every script that a hacker needs. Works with Python 2. For a Python 3 version see our updated version at [`fsociety-team/fsociety`](https://github.com/fsociety-team/fsociety).
 
-## Fsociety Contains All Tools Used in Mr. Robot Series
+## Contains All Tools Used in Mr. Robot Series
 
 [![Mr. Robot](http://nikolaskama.me/content/images/2016/07/mr-robot-1.gif)](https://wikipedia.org/wiki/Mr._Robot)
 
