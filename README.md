@@ -147,7 +147,7 @@ docker-compose down # destroys instance
 ![alt logo](https://media.giphy.com/media/xT0xeFxyHAKirrLa24/giphy.gif)
 
 # Contributors
-[fsociety].(https://github.com/fsociety-team)
+[fsociety](https://github.com/fsociety-team)
  
 [alexcreek](https://github.com/alexcreek)
 
